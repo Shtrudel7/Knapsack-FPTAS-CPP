@@ -1,0 +1,14 @@
+.vs/
+.vscode/
+Debug/
+Release/
+x64/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.user
+knapsack
+knapsack_test_bin
+__pycache__/
